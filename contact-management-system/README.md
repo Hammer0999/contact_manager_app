@@ -52,13 +52,7 @@ This is my first project using spring boot. This web app is built using spring b
 ![Home](https://raw.githubusercontent.com/turab45/contact-management-system/main/screenshots/8.%20forgot%20password.gif?text=App+Screenshot+Here)
 
 
-## Authors
 
-- [@turab45](https://www.github.com/turab45)
 
-  
-## Feedback
-
-If you have any feedback, please reach out to me at turabbajeer202@gmail.com
 
   
